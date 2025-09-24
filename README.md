@@ -1,6 +1,6 @@
 # Exercícios de Arrays e Objetos em JavaScript
 
-📂 Este repositório contém **exercícios práticos de JavaScript** focados em **arrays e objetos**, com o objetivo de ajudar no aprendizado da linguagem de forma prática, reforçando os conceitos fundamentais de manipulação de dados. <br> Obsercação: *Todos os exercícios podem ser testados diretamente no console do navegador (F12).*
+📂 Este repositório contém **exercícios práticos de JavaScript** focados em **arrays e objetos**, com o objetivo de ajudar no aprendizado da linguagem de forma prática, reforçando os conceitos fundamentais de manipulação de dados. <br> Observação: *Todos os exercícios podem ser testados diretamente no console do navegador (F12).*
 
 ---
 
